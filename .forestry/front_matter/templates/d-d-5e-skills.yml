@@ -38,3 +38,11 @@ fields:
   type: boolean
   label: Medicine
   description: int
+- name: nature
+  type: boolean
+  label: Nature
+  description: int
+- name: perception
+  type: boolean
+  label: Perception
+  description: wis
