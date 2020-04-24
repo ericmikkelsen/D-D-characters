@@ -124,13 +124,17 @@ Fighting Style: Defense. In armor, gain +1 to AC.
 * Drac. Breath Weapon (cold)
 * Drac. Resistance (half damage vs. cold)
 
-### Paladin Class Features \[PHB p. 82\]
+### Paladin Class Features 
+
+page 82
 
 * Divine Sense (sense good, evil 1 / day)
 * Lay On Hands (heal 10 h.p. betw. long rests)
 * Divine Smite (use 1st level spell slot for +2d8 radiant damage)
 
-### Spellcasting \[PHB p. 201\]
+### Spellcasting 
+
+page 201
 
 * Spell Attack Modifier +4
 * Spell Save DC 12
