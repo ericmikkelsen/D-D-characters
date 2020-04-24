@@ -18,3 +18,7 @@ fields:
   type: boolean
   label: Athletics
   description: str
+- name: deception
+  type: boolean
+  label: Deception
+  description: cha
