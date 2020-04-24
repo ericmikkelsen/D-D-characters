@@ -72,3 +72,8 @@ fields:
     min: 
     max: 
     step: 
+- name: class
+  type: text
+  config:
+    required: false
+  label: Class
