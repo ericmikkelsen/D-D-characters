@@ -7,5 +7,15 @@ fields:
   config: {}
   template: d-d
   label: Base
+- name: skills
+  type: field_group
+  config: {}
+  fields:
+  - name: skills
+    type: include
+    config: {}
+    template: d-d-5e-skills
+    label: Skills
+  label: Skills
 pages:
 - Characters/eric-og-mish-orchid.md
