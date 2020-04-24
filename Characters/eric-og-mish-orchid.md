@@ -27,7 +27,8 @@ skills:
   sleight_of_hand: false
   stealth: true
   survival: false
-  intimidation: false
+  intimidation: true
+level: 
 
 ---
 ## ABILITY SCORES & ABILITIES
