@@ -62,3 +62,13 @@ fields:
     min: 
     max: 
     step: 
+- name: wis
+  type: number
+  label: Wisdom
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
