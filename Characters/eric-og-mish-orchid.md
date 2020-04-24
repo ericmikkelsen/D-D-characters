@@ -94,8 +94,9 @@ level: 2
 * +0 Initiative Modifier
 * Armor Class 19
 * 18 hit points ... 2d10 Hit Dice
+* 30 ft. Speed
 
-... Armor worn: Chain mail and shield 30 ft. Speed ... Base distance per move
+Armor worn: Chain mail and shield
 
 ### Attacks
 
