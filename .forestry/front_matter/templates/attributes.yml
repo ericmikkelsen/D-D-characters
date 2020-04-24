@@ -12,3 +12,13 @@ fields:
     max: 
     step: 
   label: Dexterity
+- name: str
+  type: number
+  label: Strength
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
