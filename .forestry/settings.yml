@@ -9,6 +9,8 @@ sections:
   label: Characters
   create: documents
   match: "**/*"
+  templates:
+  - d-d-5e
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
