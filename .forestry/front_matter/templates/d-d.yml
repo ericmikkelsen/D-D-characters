@@ -77,3 +77,8 @@ fields:
   config:
     required: false
   label: Class
+- name: race
+  type: text
+  config:
+    required: false
+  label: Race
