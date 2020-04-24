@@ -32,3 +32,13 @@ fields:
     min: 
     max: 
     step: 
+- name: int
+  type: number
+  label: Intelligence
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
