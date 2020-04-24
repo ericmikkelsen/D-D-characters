@@ -16,6 +16,6 @@ fields:
     config: {}
     template: d-d-5e-skills
     label: Skills
-  label: Skills
+  label: Proficient Skills
 pages:
 - Characters/eric-og-mish-orchid.md
