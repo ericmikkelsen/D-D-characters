@@ -1,4 +1,14 @@
 ---
 label: Attributes
 hide_body: true
-fields: []
+fields:
+- name: dex
+  type: number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  label: Dexterity
