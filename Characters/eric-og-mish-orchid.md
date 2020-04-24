@@ -35,72 +35,58 @@ skills:
 
 ### Strength 17
 
-\+3 ... Strength Ability Checks
-
-\+3 ... Strength Saving Throws
-
-\+5 ... Athletics Skill *
+* +3 ... Strength Ability Checks
+* +3 ... Strength Saving Throws
+* +5 ... Athletics Skill *
 
 255 lbs. ... Maximum Carrying Capacity 510 lbs. ... Max. Push or Drag (Speed -5 ft.) 510 lbs. ... Maximum Lift
 
 ### Dexterity 10
 
-\+0 ... Dexterity Ability Checks +0 ... Dexterity Saving Throws +0 ... Acrobatics Skill
-
-\+0 ... Sleight of Hand Skill
-
-\+2 ... Stealth Skill * (Disadv.)
+* +0 ... Dexterity Ability Checks +0 ... Dexterity Saving Throws +0 ... Acrobatics Skill
+* +0 ... Sleight of Hand Skill
+* +2 ... Stealth Skill * (Disadv.)
 
 ### Constitution 13
 
-\+1 ... Constitution Ability Checks +1 ... Constitution Saving Throws
+* +1 ... Constitution Ability Checks +1 ... Constitution Saving Throws
 
 ### Intelligence 8
 
-\-1 ... Intelligence Ability Checks -1 ... Intelligence Saving Throws -1 ... Arcana Skill
-
-\-1 ... History Skill
-
-\-1 ... Investigation Skill -1 ... Nature Skill
-
-  -1 ... Religion Skill
+* -1 ... Intelligence Ability Checks -1 ... Intelligence Saving Throws -1 ... Arcana Skill
+* -1 ... History Skill
+* -1 ... Investigation Skill -1 ... Nature Skill
+* -1 ... Religion Skill
 
 ### Wisdom 12
 
-\+1 ... Wisdom Ability Checks +3 ... Wisdom Saving Throws * +1 ... Animal Handling Skill
-
-\+1 ... Insight Skill
-
-\+1 ... Medicine Skill
-
-\+1 ... Perception Skill
-
-\+1 ... Survival Skill
+* +1 ... Wisdom Ability Checks +3 ... Wisdom Saving Throws * +1 ... Animal Handling Skill
+* +1 ... Insight Skill
+* +1 ... Medicine Skill
+* +1 ... Perception Skill
+* +1 ... Survival Skill
 
 ### Charisma 15
 
-\+2 ... Charisma Ability Checks +4 ... Charisma Saving Throws * +4 ... Deception Skill *
-
-\+4 ... Intimidation Skill *
-
-\+2 ... Performance Skill
-
-\+2 ... Persuasion Skill
+* +2 ... Charisma Ability Checks +4 ... Charisma Saving Throws * +4 ... Deception Skill *
+* +4 ... Intimidation Skill *
+* +2 ... Performance Skill
+* +2 ... Persuasion Skill
 
 ### COMBAT \[PHB p. 189\]
 
-* 11 Passive Perception 
+* 11 Passive Perception
 * +0 Initiative Modifier
 * Armor Class 19
 * 18 hit points ... 2d10 Hit Dice
 
- ... Armor worn: Chain mail and shield 30 ft. Speed ... Base distance per move
+... Armor worn: Chain mail and shield 30 ft. Speed ... Base distance per move
 
 ### Attacks
 
-1. Battleaxe. Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 1d8+3 slashing damage. (If used two-handed in melee, does 1d10+3 damage.)
-2. Javelin. Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 1d6+3 piercing damage. (If thrown, normal range to 30 ft.; disadvantage long range 31 to 120 ft.)
-3. Draconic Breath Weapon: Once between short or long rests, breathe out 15 ft. cone of frost causing 2d6 cold damage
+* **Battleaxe**. Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 1d8+3 slashing damage. (If used two-handed in melee, does 1d10+3 damage.)
+* **Javelin**. Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 1d6+3 piercing damage. (If thrown, normal range to 30 ft.; disadvantage long range 31 to 120 ft.)
+* **Draconic Breath Weapon**: Once between short or long rests, breathe out 15 ft. cone of frost causing 2d6 cold damage
 
 Fighting Style: Defense. In armor, gain +1 to AC.
 
@@ -165,3 +151,23 @@ REFERENCE
 \[EEPG\] = Elemental Evil Player's Companion, available for download from https://dnd.wizards.com/products/tabletop- games/rpg-products/player's-companion
 
 EQUIPMENT & TREASURE
+
+## Game notes
+
+### Thursday April, 14th 2020
+
+We came out of the dragon world, almost everyone ended up at the bar, except or my brother Emandro, my half orc friend Thurngos, and I. We ended up in graves.
+
+#### Scene 1: at the OG
+
+Mish tries to unionize the ghosts. It does note go well, he instead gets a very underpriced beer.
+
+We're looking or a necklace for some reason, and 
+
+Investigating Susie in a room with madam midnight, looking for a necklace
+
+**John Patrick's character** is casting faerie fire to find the necklace, apparently doing it in madam Midnights room is crazy is because she has alot of reflections.
+
+OHH there's a plague, that's a curse or a disease.  
+  
+Cerva does detect magic and finds out the disease is necromancy.
