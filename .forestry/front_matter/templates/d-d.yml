@@ -12,6 +12,26 @@ fields:
   config:
     required: false
   label: Alignment
+- name: class
+  type: text
+  config:
+    required: false
+  label: Class
+- name: level
+  type: number
+  label: Level
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: race
+  type: text
+  config:
+    required: false
+  label: Race
 - name: dex
   type: number
   label: Dexterity
@@ -65,26 +85,6 @@ fields:
 - name: wis
   type: number
   label: Wisdom
-  description: ''
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
-- name: class
-  type: text
-  config:
-    required: false
-  label: Class
-- name: race
-  type: text
-  config:
-    required: false
-  label: Race
-- name: level
-  type: number
-  label: Level
   description: ''
   default: 0
   required: true
