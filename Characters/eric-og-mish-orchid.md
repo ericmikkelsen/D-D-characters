@@ -27,6 +27,7 @@ skills:
   sleight_of_hand: false
   stealth: true
   survival: false
+  intimidation: false
 
 ---
 ## ABILITY SCORES & ABILITIES
@@ -162,11 +163,11 @@ EQUIPMENT & TREASURE
 
 ### Thursday April, 14th 2020
 
-We came out of the dragon world, almost everyone ended up at the bar, except or my brother Emandro, my half orc friend Thurngos, and I. We ended up in graves.
+We came out of the dragon world, almost everyone ended up at the bar, except or my brother Emandro, my half orc friend Thurngos, and I. We ended up in graves. We all got out but I had a hard time getting out.
 
 #### Scene 1: Resting at the OG
 
-Mish tries to unionize the ghosts. It does note go well, he instead gets a very underpriced beer.
+Mishtries to unionize the ghosts. It does note go well, he instead gets a very underpriced beer.
 
 We're looking or a necklace for some reason, and
 
@@ -180,14 +181,14 @@ Cerva does detect magic and finds out the disease is necromancy.
 
 #### Scene 2: Next day
 
-Rowan steals a trinket from madam midnight and puts it back
+**Rowan** steals a trinket from madam midnight and puts it back to see if she's faking, she's not.
 
 everyone goes to the docks, where the hags breeding pit was? Yes we're going to the hags breading pit, to get the loot, but Hagar has it. it's totally been cleaned out, there's not even blood.
 
 The water level is low, and no one knows why. A bunch of people are speculating, except a lunatic, who sells me a bunch of stupid stories
 
-There's a package, it's an assortment of different canisters of oil, charez puts some oil on her, gets 1d4 temp hp.
+There's a package, it's an assortment of different canisters of oil, **Charez** puts some oil on her, gets 1d4 temp hp.
 
-Apparently the sewers are scary, detect evil says they're evil.
+Apparently the sewers are scary, detect evil says they're evil, let's go kill some shit.
 
 We shall see, same bat time, same bat channel.
