@@ -62,3 +62,7 @@ fields:
   type: boolean
   label: Sleight of Hand
   description: dex
+- name: stealth
+  type: boolean
+  label: Stealth
+  description: dex
