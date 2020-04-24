@@ -5,7 +5,7 @@ con: 13
 int: 8
 cha: 15
 wis: 12
-name: Mish Nuevo Castillo
+name: Mish Nuevocastillo
 alignment: Lawful Good
 class: Paladin
 race: 'Dragonborn (Silver Dragon Ancestry) '
@@ -32,8 +32,6 @@ level: 2
 
 ---
 ## ABILITY SCORES & ABILITIES
-
-(* includes +2 proficiency bonus; ** includes expertise, if any)
 
 ### Strength 17
 
