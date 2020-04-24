@@ -2,16 +2,6 @@
 label: Attributes
 hide_body: true
 fields:
-- name: dex
-  type: number
-  description: ''
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
-  label: Dexterity
 - name: str
   type: number
   label: Strength
@@ -22,6 +12,16 @@ fields:
     min: 
     max: 
     step: 
+- name: dex
+  type: number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  label: Dexterity
 - name: con
   type: number
   label: Consitution
