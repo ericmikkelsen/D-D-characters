@@ -46,3 +46,15 @@ fields:
   type: boolean
   label: Perception
   description: wis
+- name: performance
+  type: boolean
+  label: Performance
+  description: cha
+- name: persuasion
+  type: boolean
+  label: Persuasion
+  description: cha
+- name: religion
+  type: boolean
+  label: Religion
+  description: int
