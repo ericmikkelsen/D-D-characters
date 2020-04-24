@@ -10,3 +10,11 @@ fields:
   type: boolean
   label: Animal handling
   description: wis
+- name: acrana
+  type: boolean
+  label: Acrana
+  description: int
+- name: athletics
+  type: boolean
+  label: Athletics
+  description: str
