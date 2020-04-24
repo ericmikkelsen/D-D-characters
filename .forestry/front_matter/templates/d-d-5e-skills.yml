@@ -1,4 +1,12 @@
 ---
 label: D&D 5e Skills
 hide_body: true
-fields: []
+fields:
+- name: acrobatics
+  type: boolean
+  label: Acrobatics
+  description: dex
+- name: animal_handling
+  type: boolean
+  label: Animal handling
+  description: wis
