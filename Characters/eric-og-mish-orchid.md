@@ -49,7 +49,7 @@ skills:
 
 ### Constitution 13
 
-* +1 ... Constitution Ability Checks +1 ... Constitution Saving Throws
+* +1 Constitution Ability Checks +1 ... Constitution Saving Throws
 
 ### Intelligence 8
 
@@ -158,7 +158,7 @@ EQUIPMENT & TREASURE
 
 We came out of the dragon world, almost everyone ended up at the bar, except or my brother Emandro, my half orc friend Thurngos, and I. We ended up in graves.
 
-#### Scene 1: at the OG
+#### Scene 1: Resting at the OG
 
 Mish tries to unionize the ghosts. It does note go well, he instead gets a very underpriced beer.
 
@@ -171,3 +171,17 @@ Investigating Susie in a room with madam midnight, looking for a necklace
 OHH there's a plague, that's a curse or a disease.  
   
 Cerva does detect magic and finds out the disease is necromancy.
+
+#### Scene 2: Next day
+
+Rowan steals a trinket from madam midnight and puts it back
+
+everyone goes to the docks, where the hags breeding pit was? Yes we're going to the hags breading pit, to get the loot, but Hagar has it. it's totally been cleaned out, there's not even blood. 
+
+The water level is low, and no one knows why. A bunch of people are speculating, except a lunatic, who sells me a bunch of stupid stories
+
+There's a package, it's an assortment of different canisters of oil, charez puts some oil on her, gets 1d4 temp hp.
+
+Apparently the sewers are scary, detect evil says they're evil. 
+
+We shall see, same bat time, same bat channel.
