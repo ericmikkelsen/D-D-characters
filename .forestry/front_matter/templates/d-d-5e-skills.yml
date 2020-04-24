@@ -30,6 +30,10 @@ fields:
   type: boolean
   label: Insight
   description: wis
+- name: intimidation
+  type: boolean
+  label: Intimidation
+  description: cha
 - name: investigation
   type: boolean
   label: Investigation
@@ -70,7 +74,3 @@ fields:
   type: boolean
   label: Survival
   description: wis
-- name: intimidation
-  type: boolean
-  label: Intimidation
-  description: cha
