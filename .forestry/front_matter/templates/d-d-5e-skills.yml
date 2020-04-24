@@ -26,3 +26,15 @@ fields:
   type: boolean
   label: History
   description: int
+- name: insight
+  type: boolean
+  label: Insight
+  description: wis
+- name: investigation
+  type: boolean
+  label: Investigation
+  description: int
+- name: medicine
+  type: boolean
+  label: Medicine
+  description: int
