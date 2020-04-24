@@ -7,3 +7,5 @@ fields:
   config: {}
   template: d-d
   label: Base
+pages:
+- Characters/eric-og-mish-orchid.md
