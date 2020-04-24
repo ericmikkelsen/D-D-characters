@@ -58,3 +58,7 @@ fields:
   type: boolean
   label: Religion
   description: int
+- name: sleight_of_hand
+  type: boolean
+  label: Sleight of Hand
+  description: dex
