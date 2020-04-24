@@ -66,3 +66,7 @@ fields:
   type: boolean
   label: Stealth
   description: dex
+- name: survival
+  type: boolean
+  label: Survival
+  description: wis
