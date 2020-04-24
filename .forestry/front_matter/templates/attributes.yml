@@ -22,3 +22,13 @@ fields:
     min: 
     max: 
     step: 
+- name: con
+  type: number
+  label: Consitution
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
