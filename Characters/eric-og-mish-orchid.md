@@ -28,7 +28,7 @@ skills:
   stealth: true
   survival: false
   intimidation: true
-level: 
+level: 2
 
 ---
 ## ABILITY SCORES & ABILITIES
