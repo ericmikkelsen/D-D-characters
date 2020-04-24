@@ -82,3 +82,13 @@ fields:
   config:
     required: false
   label: Race
+- name: level
+  type: number
+  label: Level
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
