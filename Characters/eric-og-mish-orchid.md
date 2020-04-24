@@ -8,7 +8,7 @@ wis: 12
 name: Mish Nuevo Castillo
 alignment: Lawful Good
 class: Paladin
-race: Dragonborn
+race: 'Dragonborn (Silver Dragon Ancestry) '
 skills:
   acrobatics: false
   animal_handling: false
@@ -29,14 +29,11 @@ skills:
   survival: false
 
 ---
-Race: Dragonborn (Silver Dragon Ancestry) Class & Level: Paladin Background: Criminal  
-Experience: 309 xp
-
-ABILITY SCORES & ABILITIES
+## ABILITY SCORES & ABILITIES
 
 (* includes +2 proficiency bonus; ** includes expertise, if any)
 
-Strength 17
+### Strength 17
 
 \+3 ... Strength Ability Checks
 
@@ -46,7 +43,7 @@ Strength 17
 
 255 lbs. ... Maximum Carrying Capacity 510 lbs. ... Max. Push or Drag (Speed -5 ft.) 510 lbs. ... Maximum Lift
 
-Dexterity 10
+### Dexterity 10
 
 \+0 ... Dexterity Ability Checks +0 ... Dexterity Saving Throws +0 ... Acrobatics Skill
 
@@ -54,11 +51,11 @@ Dexterity 10
 
 \+2 ... Stealth Skill * (Disadv.)
 
-Constitution 13
+### Constitution 13
 
 \+1 ... Constitution Ability Checks +1 ... Constitution Saving Throws
 
-Intelligence 8
+### Intelligence 8
 
 \-1 ... Intelligence Ability Checks -1 ... Intelligence Saving Throws -1 ... Arcana Skill
 
@@ -68,7 +65,7 @@ Intelligence 8
 
   -1 ... Religion Skill
 
-Wisdom 12
+### Wisdom 12
 
 \+1 ... Wisdom Ability Checks +3 ... Wisdom Saving Throws * +1 ... Animal Handling Skill
 
@@ -80,7 +77,7 @@ Wisdom 12
 
 \+1 ... Survival Skill
 
-Charisma 15
+### Charisma 15
 
 \+2 ... Charisma Ability Checks +4 ... Charisma Saving Throws * +4 ... Deception Skill *
 
@@ -90,25 +87,26 @@ Charisma 15
 
 \+2 ... Persuasion Skill
 
-COMBAT \[PHB p. 189\]
+### COMBAT \[PHB p. 189\]
 
-11 ... Passive Perception +0 ... Initiative Modifier
+* 11 Passive Perception 
+* +0 Initiative Modifier
+* Armor Class 19
+* 18 hit points ... 2d10 Hit Dice
 
-Armor Class 19 ... Armor worn: Chain mail and shield 30 ft. Speed ... Base distance per move
+ ... Armor worn: Chain mail and shield 30 ft. Speed ... Base distance per move
 
-18 hit points ... 2d10 Hit Dice
+### Attacks
 
-Battleaxe. Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 1d8+3 slashing damage. (If used two-handed in melee, does 1d10+3 damage.)
-
-Javelin. Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 1d6+3 piercing damage. (If thrown, normal range to 30 ft.; disadvantage long range 31 to 120 ft.)
+1. Battleaxe. Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 1d8+3 slashing damage. (If used two-handed in melee, does 1d10+3 damage.)
+2. Javelin. Melee Weapon Attack: +5 to hit, reach 5 ft. Hit: 1d6+3 piercing damage. (If thrown, normal range to 30 ft.; disadvantage long range 31 to 120 ft.)
+3. Draconic Breath Weapon: Once between short or long rests, breathe out 15 ft. cone of frost causing 2d6 cold damage
 
 Fighting Style: Defense. In armor, gain +1 to AC.
 
-Draconic Breath Weapon: Once between short or long rests, breathe out 15 ft. cone of frost causing 2d6 cold damage
-
 (DC 11 Con save for half damage) to all caught in area.
 
-FEATURES, TRAITS, SPECIAL ABILITIES
+## FEATURES, TRAITS, SPECIAL ABILITIES
 
 Proficiencies & Languages
 
@@ -166,8 +164,4 @@ REFERENCE
 
 \[EEPG\] = Elemental Evil Player's Companion, available for download from https://dnd.wizards.com/products/tabletop- games/rpg-products/player's-companion
 
-Wizards of the Coast, Magic: The Gathering, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 2009 Wizards. All Rights Reserved.
-
-This Web site is not affiliated with, endorsed, sponsored, or specifically approved by Wizards of the Coast LLC. This Web site may use the trademarks and other intellectual property of Wizards of the Coast LLC, which is permitted under Wizards' Fan Site Policy. For example, DUNGEONS & DRAGONS®, D&D®, PLAYER'S HANDBOOK 2®, and DUNGEON MASTER'S GUIDE® are trademark\[s\] of Wizards of the Coast and D&D® core rules, game mechanics, characters and their distinctive likenesses are the property of the Wizards of the Coast. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at www.wizards.com.
-
-      EQUIPMENT & TREASURE
+EQUIPMENT & TREASURE
