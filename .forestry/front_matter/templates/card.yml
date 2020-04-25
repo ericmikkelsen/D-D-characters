@@ -1,4 +1,49 @@
 ---
 label: Card
 hide_body: true
-fields: []
+fields:
+- name: number
+  type: number
+  label: Number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: first_line
+  type: text
+  config:
+    required: false
+  label: First line
+- name: second_line
+  type: text
+  config:
+    required: false
+  label: Second line
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
+- name: attribute
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - Spry
+    - Dexterity
+    - Constitution
+    - Strength
+    - Intelligence
+    - Wisdom
+    - Willpower
+    - Charisma
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Attribute
