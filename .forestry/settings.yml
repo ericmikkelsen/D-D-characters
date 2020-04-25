@@ -9,6 +9,8 @@ sections:
   label: 'Saga: Cards'
   create: all
   match: "**/*"
+  templates:
+  - card
 - type: directory
   path: Characters
   label: Characters
