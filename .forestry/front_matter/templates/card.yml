@@ -12,24 +12,6 @@ fields:
     min: 
     max: 
     step: 
-- name: first_line
-  type: text
-  config:
-    required: false
-  label: Description line 1
-  description: Try to use 5 syllables
-- name: second_line
-  type: text
-  config:
-    required: false
-  label: Description line 2
-  description: Try to use 7 syllables
-- name: name
-  type: text
-  config:
-    required: false
-  label: Name
-  description: Try to use 5 syllables
 - name: attribute
   type: select
   default: []
@@ -50,6 +32,24 @@ fields:
       file: 
       path: 
   label: Attribute
+- name: first_line
+  type: text
+  config:
+    required: false
+  label: Description line 1
+  description: Try to use 5 syllables
+- name: second_line
+  type: text
+  config:
+    required: false
+  label: Description line 2
+  description: Try to use 7 syllables
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
+  description: Try to use 5 syllables
 pages:
 - saga/cards/Charisma/1.md
 - saga/cards/Charisma/2.md
