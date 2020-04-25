@@ -16,13 +16,13 @@ fields:
   type: text
   config:
     required: false
-  label: First line
+  label: Description line 1
   description: Try to use 5 syllables
 - name: second_line
   type: text
   config:
     required: false
-  label: Second line
+  label: Description line 2
   description: Try to use 7 syllables
 - name: name
   type: text
