@@ -17,16 +17,19 @@ fields:
   config:
     required: false
   label: First line
+  description: Try to use 5 syllables
 - name: second_line
   type: text
   config:
     required: false
   label: Second line
+  description: Try to use 7 syllables
 - name: name
   type: text
   config:
     required: false
   label: Name
+  description: Try to use 5 syllables
 - name: attribute
   type: select
   default: []
