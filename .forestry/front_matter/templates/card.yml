@@ -50,3 +50,5 @@ fields:
       file: 
       path: 
   label: Attribute
+pages:
+- saga/cards/Charisma/1.md
