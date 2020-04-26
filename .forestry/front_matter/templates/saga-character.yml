@@ -24,4 +24,17 @@ fields:
 - name: agility
   type: field_group
   config: {}
+  fields:
+  - name: agility
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Agility
   label: Agility
