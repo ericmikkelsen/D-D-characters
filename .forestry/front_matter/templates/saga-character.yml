@@ -1,4 +1,23 @@
 ---
 label: Saga Character
 hide_body: false
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
+- name: homeland
+  type: text
+  config:
+    required: false
+  label: Homeland
+- name: arms_and_armor
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Arms & armor
