@@ -15,7 +15,7 @@ sections:
   label: Saga
 - type: directory
   path: saga/characters
-  label: 'Saga: Characters'
+  label: Characters
   create: all
   match: "**/*"
 - type: directory
