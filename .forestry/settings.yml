@@ -4,6 +4,13 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Saga
+- type: directory
+  path: saga/characters
+  label: 'Saga: Characters'
+  create: all
+  match: "**/*"
 - type: directory
   path: saga/cards
   label: 'Saga: Cards'
