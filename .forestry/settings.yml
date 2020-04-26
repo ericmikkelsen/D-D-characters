@@ -20,7 +20,7 @@ sections:
   match: "**/*"
 - type: directory
   path: saga/cards
-  label: 'Saga: Cards'
+  label: Cards
   create: all
   match: "**/*"
   templates:
