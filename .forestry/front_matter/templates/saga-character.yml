@@ -21,3 +21,7 @@ fields:
     schema:
       format: markdown
   label: Arms & armor
+- name: spry
+  type: field_group
+  config: {}
+  label: Agility
