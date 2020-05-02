@@ -21,3 +21,5 @@ fields:
     schema:
       format: markdown
   label: Arms & armor
+pages:
+- saga/characters/Dozer-springwelder.md
