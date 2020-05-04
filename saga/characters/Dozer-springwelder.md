@@ -115,4 +115,4 @@ A person with the uniform of the castle, walks in and stabs Auryst's friend curs
 
 Cutter approaches the uniformed woman, 
 
-Auryst heals Cursor
+Auryst trys to heal Cursor
