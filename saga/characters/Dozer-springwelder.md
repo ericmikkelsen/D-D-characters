@@ -66,17 +66,23 @@ Tyr re-enforces Ur, but being upside down re-enforces Nyd, There is a storm comi
 
 Starts with everyone knowing each other
 
-Jason: is a half centaur  
+**Auryst Pryth by Jason**  
 Jason does not run the establishment, but he's here all the time, checking email  
   
 Knows right from wrong, but not up from down. Dreamer, monk etc  
   
-Moxy by Julie  
+**Moxy by Julie**  
 Grew up in the town, orphaned from a young age, as a street urchin, started robbing pockets. got into the thieves guild (the lifters), been earning ever since
 
-Cutter by Sean  
+**Cutter by Sean**  
 Joined a guild, social skills are so poor that he doesn't have a good shot at increasing in rank. He doesn't have friends.
 
-Untitled and Moxy are both part of the same guild.
+Cutter and Moxy are both part of the same guild.
 
-There are 2 sides to the guild, being violent and being theives. Less violent is the lifters and the more violent is the smashers.
+There are 2 sides to the guild, being violent and being thieves. Less violent is the lifters and the more violent is the smashers.i
+
+A wolf walks in, followed by it's human, **Dozer Springwelder** (by Eric).
+
+Auryst makes a glance at Beth the Barmaid, both considering the wolf.  
+  
+A person with the uniform of the castle, walks in and stabs Auryst's friend twice.
