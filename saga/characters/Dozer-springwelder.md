@@ -5,6 +5,13 @@ arms_and_armor: "\\+9 Warmhammer  \n\\+9 battle axe  \n\\+6 Longbow  \n  \n\\-3 
   shield  \n\\- 5 plate"
 
 ---
+Personal information
+
+Race Human  
+Role top  
+Demeanor: Nosy & Opinionated  
+Nature: Authoritative & Just
+
 ## Ability
 
 Physical
@@ -87,5 +94,7 @@ A wolf walks in, followed by it's human, **Dozer Springwelder** (by Eric).
 Auryst makes a glance at Beth the Barmaid, both considering the wolf.  
   
 A person with the uniform of the castle, walks in and stabs Auryst's friend cursor twice.
+
+    Turn order jason, sean, julie, eric
 
 Cutter approaches the uniformed woman, 
