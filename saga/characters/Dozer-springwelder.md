@@ -5,23 +5,39 @@ arms_and_armor: "\\+9 Warmhammer  \n\\+9 battle axe  \n\\+6 Longbow  \n  \n\\-3 
   shield  \n\\- 5 plate"
 
 ---
-Personal information
+## Character Sheet
 
-Race Human  
-Role top  
-Demeanor: Nosy & Opinionated  
-Nature: Authoritative & Just
+### Personal information
 
-## Ability
+* Race Human
+* Role top
+* Demeanor: Nosy & Opinionated
+* Nature: Authoritative & Just
 
-Physical
+### Physical Description
+
+* age: 50
+* Hair: bald
+* Height: 7'2
+* Eyes: 1 grey eye
+
+### Background
+
+* Wealth: Guildsman 5
+* Quest/Reputation: 7-10 Champion
+* Hand: 5
+* Quests: 7
+
+### Ability Scores
+
+#### Physical
 
 * 4c Agility
 * 6b Dexterity
 * 7a Endurance
 * 8a Strength
 
-Mental
+#### Mental
 
 * 8a reason
 * 8b perception
