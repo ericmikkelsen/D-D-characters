@@ -116,3 +116,10 @@ A person with the uniform of the castle, walks in and stabs Auryst's friend curs
 Cutter approaches the uniformed woman, 
 
 Auryst trys to heal Cursor
+
+    plays 8 of moons, studios and opintionated
+
+Cursor gets electorcuted, but his wound is healed through cautorization
+
+
+Lt Mira, is revealed after Moxy asks the officer who she is
