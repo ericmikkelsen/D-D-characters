@@ -1,54 +1,14 @@
 ---
 name: Dozer Springwelder
 homeland: Dragonteeth
-arms_and_armor: "\\+9 Warmhammer  \n\\+9 battle axe  \n\\+6 Longbow  \n  \n\\-3 round
-  shield  \n\\- 5 plate"
+arms_and_armor: ''
 
 ---
-## Character Sheet
-
-### Personal information
-
-* Race Human
-* Role top
-* Demeanor: Nosy & Opinionated
-* Nature: Authoritative & Just
-
-### Physical Description
-
-* age: 50
-* Hair: bald
-* Height: 7'2
-* Eyes: 1 grey eye
-
-### Background
-
-* Wealth: Guildsman 5
-* Quest/Reputation: 7-10 Champion
-* Hand: 5
-* Quests: 7
-
-### Ability Scores
-
-#### Physical
-
-* 4c Agility
-* 6b Dexterity
-* 7a Endurance
-* 8a Strength
-
-#### Mental
-
-* 8a reason
-* 8b perception
-* 3c spirit
-* 9x presence
-
 ## May 3rd, 2020
 
 ### Finding Seans Character
 
-What I told Sean's character,
+What I told Sean's character, 
 
 This is what I saw when I cast the runes right before meeting you.
 
@@ -62,11 +22,11 @@ Someone would be freed, and it would be good, but it would also mean that there 
 
 #### ᛜ Ing Torch
 
-A fire in a cold summer night, warms weary travelers, but a fire in Dragon's Teeth saves lives at night. Those that are close will be joined, those that can bear to be joined, will be, and those that cannot join will be hewn from life.
+A fire in a cold summer night, warms weary travelers, but a fire in Dragon's Teeth saves lives at night. Those that are close will be joined, those that can bear to be joined, will be, and those that cannot join will be hewn from life. 
 
 ### What I said about your family when you were old enough to talk
 
-I am dozer your caretaker, I found you and your parents were already dead, I had nothing to do with that. But you aren not an orphan, you are _FirstName_ of _lastname or place_ and I'll insure what is yours, is yours. Until you can defend it yourself. These are the people you came from. This is where your parents are buried. This place belongs to you and you are not an orphan. I am simply your caretaker.
+I am dozer your caretaker, I found you and your parents were already dead, I had nothing to do with that. But you aren not an orphan, you are _FirstName_ of _lastname or place_ and I'll insure what is yours, is yours. Until you can defend it yourself. These are the people you came from. This is where your parents are buried. This place belongs to you and you are not an orphan. I am simply your caretaker. 
 
 ### What I've done on the side
 
@@ -85,41 +45,3 @@ The path to power is mired by a fog of choices, be careful to take the right pat
 #### ᛏ Tyr - warrior upside down
 
 Tyr re-enforces Ur, but being upside down re-enforces Nyd, There is a storm coming, But with careful thought, and clear sight you can exit the storm stronger than when you entered it.
-
-### Scene 1: at church of overflowing cup
-
-Starts with everyone knowing each other
-
-**Auryst Pryth by Jason**  
-Jason does not run the establishment, but he's here all the time, checking email  
-  
-Knows right from wrong, but not up from down. Dreamer, monk etc  
-  
-**Moxy by Julie**  
-Grew up in the town, orphaned from a young age, as a street urchin, started robbing pockets. got into the thieves guild (the lifters), been earning ever since
-
-**Cutter by Sean**  
-Joined a guild, social skills are so poor that he doesn't have a good shot at increasing in rank. He doesn't have friends.
-
-Cutter and Moxy are both part of the same guild.
-
-There are 2 sides to the guild, being violent and being thieves. Less violent is the lifters and the more violent is the smashers.i
-
-A wolf walks in, followed by it's human, **Dozer Springwelder** (by Eric).
-
-Auryst makes a glance at Beth the Barmaid, both considering the wolf.  
-  
-A person with the uniform of the castle, walks in and stabs Auryst's friend cursor twice.
-
-    Turn order jason, sean, julie, eric
-
-Cutter approaches the uniformed woman, 
-
-Auryst trys to heal Cursor
-
-    plays 8 of moons, studios and opintionated
-
-Cursor gets electorcuted, but his wound is healed through cautorization
-
-
-Lt Mira, is revealed after Moxy asks the officer who she is
