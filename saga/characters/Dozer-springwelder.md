@@ -1,7 +1,8 @@
 ---
 name: Dozer Springwelder
 homeland: Dragonteeth
-arms_and_armor: ''
+arms_and_armor: "\\+9 Warmhammer  \n\\+9 battle axe  \n\\+6 Longbow  \n  \n\\-3 round
+  shield  \n\\- 5 plate"
 
 ---
 ## Ability
