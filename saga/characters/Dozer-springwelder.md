@@ -114,3 +114,5 @@ A person with the uniform of the castle, walks in and stabs Auryst's friend curs
     Turn order jason, sean, julie, eric
 
 Cutter approaches the uniformed woman, 
+
+Auryst heals Cursor
