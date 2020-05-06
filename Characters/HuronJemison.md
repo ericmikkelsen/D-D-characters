@@ -50,7 +50,7 @@ skills:
 * Balance Dex
 * Bluff Cha
 * Climb Str
-* Computer Use Int
+* **5 Computer Use** Int +1 + 4 ranks
 * Concentration Con
 * **9 Craft** (mechanical) 8 ranks + 1 int
 * Decipher Script Int
