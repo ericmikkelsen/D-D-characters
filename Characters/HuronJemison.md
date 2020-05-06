@@ -1,6 +1,6 @@
 ---
 level: 0
-dex: 18
+dex: 20
 str: 10
 con: 16
 int: 12
@@ -38,9 +38,57 @@ skills:
 
 ## Feats
 
-* [Starship Operation](http://spellbooksoftware.com/d20mrsd/futurefeats.html#soperation)
+* [Starship Operation](http://spellbooksoftware.com/d20mrsd/futurefeats.html#soperation) (ultralight)
+* [Planetary Adaptation](http://spellbooksoftware.com/d20mrsd/futurefeats.html#adaptation) Low G (+2 dex)
 * [Zero G Training](http://spellbooksoftware.com/d20mrsd/futurefeats.html#zerog)
-* [Vehicle Expert](http://spellbooksoftware.com/d20mrsd/featorder.html#vehicleexpert)
-* [Starship Dodge](http://spellbooksoftware.com/d20mrsd/futurefeats.html#sdodge)
+* [Vehicle Expert](http://spellbooksoftware.com/d20mrsd/featorder.html#vehicleexpert) (ultralight)
 
-Class Features
+## Class Features
+
+## Skills
+
+* Balance Dex
+* Bluff Cha
+* Climb Str
+* Computer Use Int
+* Concentration Con
+* **9 Craft** (mechanical) 8 ranks + 1 int
+* Decipher Script Int
+* Demolitions Int
+* Diplomacy Cha
+* Disable Device Int
+* Disguise Cha
+* **15 Drive** 8 ranks + 5 Dex + 2 Vehicle Expert
+* Escape Artist Dex
+* Forgery Int
+* Gamble Wis
+* Gather Information Cha
+* Handle Animal Cha
+* Hide Dex
+* Intimidate Cha
+* Investigate Int
+* Jump Str
+* Listen Wis
+* Move Silently Dex
+* Navigate Int
+* **15 Pilot** 8 ranks +5 Dex + 2 Vehicle Expert
+* Profession Wis
+* Repair Int
+* Research Int
+* Ride Dex
+* Search Int
+* Sense Motive Wis
+* Sleight of Hand Dex
+* Spot Wis
+* Survival Wis
+* Swim Str
+* Treat Injury Wis
+* Tumble
+
+## Levels
+
+1. 24 ranks
+2. 6 ranks
+3. 6 ranks
+4. 6 ranks
+5. 6 ranks
