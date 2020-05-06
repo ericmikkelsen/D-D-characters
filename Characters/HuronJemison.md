@@ -70,7 +70,7 @@ skills:
 * Jump Str
 * Listen Wis
 * Move Silently Dex
-* Navigate Int
+* **9 Navigate** +1 Int + 8 ranks
 * **15 Pilot** 8 ranks +5 Dex + 2 Vehicle Expert
 * Profession Wis
 * Repair Int
