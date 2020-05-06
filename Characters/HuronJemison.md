@@ -85,6 +85,12 @@ skills:
 * Treat Injury Wis
 * Tumble
 
+### languages
+
+#### read & write 6 ranks
+
+#### speak 6 ranks
+
 ## Levels
 
 1. 24 ranks
