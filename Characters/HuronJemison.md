@@ -52,7 +52,7 @@ skills:
 * Climb Str
 * **5 Computer Use** Int +1 + 4 ranks
 * Concentration Con
-* **9 Craft** (mechanical) 8 ranks + 1 int
+* **5 Craft** (mechanical) 4 ranks + 1 int
 * Decipher Script Int
 * Demolitions Int
 * Diplomacy Cha
@@ -73,7 +73,7 @@ skills:
 * **9 Navigate** +1 Int + 8 ranks
 * **15 Pilot** 8 ranks +5 Dex + 2 Vehicle Expert
 * Profession Wis
-* Repair Int
+* **5 Repair** +1 Int + 4 ranks
 * Research Int
 * Ride Dex
 * Search Int
