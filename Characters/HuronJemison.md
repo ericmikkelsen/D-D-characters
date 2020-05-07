@@ -113,6 +113,7 @@ skills:
 4. 6 ranks
 5. 6 ranks
 
-Attacks
+## Attacks
 
-\+3 Base Attack Bonus
+* 3 Melee = +3 Base Attack Bonus
+* 8 Ranged = +3 Base  Attack Bonus + 5 dex
