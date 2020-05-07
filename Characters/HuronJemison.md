@@ -50,7 +50,7 @@ skills:
 * Balance Dex
 * Bluff Cha
 * Climb Str
-* **5 Computer Use** Int +1 + 4 ranks
+* **9 Computer Use** Int +1 + 8 ranks
 * Concentration Con
 * **5 Craft** (mechanical) 4 ranks + 1 int
 * Decipher Script Int
@@ -73,7 +73,7 @@ skills:
 * **9 Navigate** +1 Int + 8 ranks
 * **15 Pilot** 8 ranks +5 Dex + 2 Vehicle Expert
 * Profession Wis
-* **5 Repair** +1 Int + 4 ranks
+* 5 Repair +1 Int
 * Research Int
 * Ride Dex
 * Search Int
@@ -89,7 +89,21 @@ skills:
 
 #### read & write 6 ranks
 
+* old russian
+* mars
+* high falut'n society
+* technobabble
+* belt
+* Pigin
+
 #### speak 6 ranks
+
+* old russian
+* mars
+* high falut'n society
+* technobabble
+* belt
+* Pigin
 
 ## Levels
 
@@ -98,3 +112,7 @@ skills:
 3. 6 ranks
 4. 6 ranks
 5. 6 ranks
+
+Attacks
+
+\+3 Base Attack Bonus
