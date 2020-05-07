@@ -89,12 +89,12 @@ skills:
 
 #### read & write 6 ranks
 
-* old russian
-* mars
-* high falut'n society
-* technobabble
-* belt
-* Pigin
+* Old Russian
+* Martian
+* high falutin society
+* Technobabble
+* Belt
+* Pidgin
 
 #### speak 6 ranks
 
