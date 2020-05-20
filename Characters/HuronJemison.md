@@ -50,9 +50,9 @@ skills:
 * Balance +5 Dex
 * Bluff +2 Cha
 * Climb Str
-* **8 Computer Use** Int +1 + 7 ranks
+* **7 Computer Use** Int +1 + 6 ranks
 * Concentration +3 Con
-* **5 Craft** (mechanical) 4 ranks + 1 int
+* **6 Craft** (mechanical) 5 ranks + 1 int
 * Decipher Script +1 Int
 * Demolitions +1 Int
 * Diplomacy +2 Cha
