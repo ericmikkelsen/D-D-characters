@@ -47,43 +47,43 @@ skills:
 
 ## Skills
 
-* Balance Dex
-* Bluff Cha
+* Balance +5 Dex
+* Bluff +2 Cha
 * Climb Str
 * **9 Computer Use** Int +1 + 8 ranks
-* Concentration Con
+* Concentration +3 Con
 * **5 Craft** (mechanical) 4 ranks + 1 int
-* Decipher Script Int
-* Demolitions Int
-* Diplomacy Cha
-* Disable Device Int
-* Disguise Cha
+* Decipher Script +1 Int
+* Demolitions +1 Int
+* Diplomacy +2 Cha
+* Disable Device +1 Int
+* Disguise +2 Cha
 * **15 Drive** 8 ranks + 5 Dex + 2 Vehicle Expert
-* Escape Artist Dex
-* Forgery Int
-* Gamble Wis
-* Gather Information Cha
-* Handle Animal Cha
-* Hide Dex
-* Intimidate Cha
-* Investigate Int
+* Escape Artist + 5 Dex
+* Forgery + 1 Int
+* Gamble + 1Wis
+* Gather Information +2 Cha
+* Handle Animal + 2 Cha
+* Hide + 5 Dex
+* Intimidate +2 Cha
+* Investigate +5 Int
 * Jump Str
-* Listen Wis
-* Move Silently Dex
+* 1 Listen Wis
+* 5 Move Silently Dex
 * **9 Navigate** +1 Int + 8 ranks
 * **15 Pilot** 8 ranks +5 Dex + 2 Vehicle Expert
-* Profession Wis
-* 5 Repair +1 Int
-* Research Int
-* Ride Dex
-* Search Int
-* Sense Motive Wis
-* Sleight of Hand Dex
-* Spot Wis
-* Survival Wis
+* Profession +1 Wis
+* 5 Repair 4 ranks +1 Int
+* Research +1 Int
+* Ride +5 Dex
+* Search +1 Int
+* Sense Motive +1 Wis
+* Sleight of Hand +5 Dex
+* Spot +1 Wis
+* Survival +1 Wis
 * Swim Str
-* Treat Injury Wis
-* Tumble
+* Treat Injury +1 Wis
+* Tumble +5 Dex
 
 ### languages
 
@@ -122,7 +122,7 @@ skills:
 
 ### 40 Hit points
 
-1. 10 
+1. 10
 2. 6
 3. 9
 4. 10
