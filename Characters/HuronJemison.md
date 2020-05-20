@@ -50,7 +50,7 @@ skills:
 * Balance +5 Dex
 * Bluff +2 Cha
 * Climb Str
-* **9 Computer Use** Int +1 + 8 ranks
+* **8 Computer Use** Int +1 + 7 ranks
 * Concentration +3 Con
 * **5 Craft** (mechanical) 4 ranks + 1 int
 * Decipher Script +1 Int
@@ -58,7 +58,7 @@ skills:
 * Diplomacy +2 Cha
 * Disable Device +1 Int
 * Disguise +2 Cha
-* **15 Drive** 8 ranks + 5 Dex + 2 Vehicle Expert
+* **12 Drive** 5 ranks + 5 Dex + 2 Vehicle Expert
 * Escape Artist + 5 Dex
 * Forgery + 1 Int
 * Gamble + 1Wis
@@ -83,7 +83,7 @@ skills:
 * Survival +1 Wis
 * Swim Str
 * Treat Injury +1 Wis
-* Tumble +5 Dex
+* **9 Tumble** 4 ranks +5 Dex
 
 ### languages
 
