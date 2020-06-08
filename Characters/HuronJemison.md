@@ -42,6 +42,10 @@ skills:
 * [Planetary Adaptation](http://spellbooksoftware.com/d20mrsd/futurefeats.html#adaptation) Low G (+2 dex)
 * [Zero G Training](http://spellbooksoftware.com/d20mrsd/futurefeats.html#zerog)
 * [Vehicle Expert](http://spellbooksoftware.com/d20mrsd/featorder.html#vehicleexpert) (ultralight)
+* [Brawl](http://spellbooksoftware.com/d20mrsd/featorder.html#brawl) 1st level human
+* [Weapon Finesse](http://spellbooksoftware.com/d20mrsd/featorder.html#weaponfinesse) 1st level human
+* [Street Fighting](http://spellbooksoftware.com/d20mrsd/featorder.html#streetfighting) 3rd level human
+* [Combat Martial Arts](http://spellbooksoftware.com/d20mrsd/featorder.html#combatmartial) 6th level human
 
 ## Class Features
 
@@ -55,7 +59,7 @@ skills:
 * **6 Craft** (mechanical) 5 ranks + 1 int
 * Decipher Script +1 Int
 * Demolitions +1 Int
-* Diplomacy +2 Cha
+* 7 Diplomacy 5ranks +2 Cha
 * Disable Device +1 Int
 * Disguise +2 Cha
 * **12 Drive** 5 ranks + 5 Dex + 2 Vehicle Expert
@@ -71,7 +75,7 @@ skills:
 * 1 Listen Wis
 * 5 Move Silently Dex
 * **9 Navigate** +1 Int + 8 ranks
-* **15 Pilot** 8 ranks +5 Dex + 2 Vehicle Expert
+* **16 Pilot** 9 ranks +5 Dex + 2 Vehicle Expert
 * Profession +1 Wis
 * 5 Repair 4 ranks +1 Int
 * Research +1 Int
@@ -112,6 +116,7 @@ skills:
 3. 6 ranks
 4. 6 ranks
 5. 6 ranks
+6. 6 ranks
 
 ## Combat
 
@@ -119,17 +124,24 @@ skills:
 
 * 3 Melee = +3 Base Attack Bonus
 * 8 Ranged = +3 Base  Attack Bonus + 5 dex
+* 1d6 damage DC 13 1d2 rounds stunned
+* Fists 1d8 + 1d4 lethal 5 dex + 4 Base Attack Bonus + 2 Improved Brawl
 
-### 40 Hit points
+### 46 Hit points
 
 1. 10
 2. 6
 3. 9
 4. 10
 5. 5
+6. 3 + 3
 
-### 20 Armor class
+### 21 Armor class
 
 * 10 base
 * 5 Dex
-* 5 defense bonus
+* 6 defense bonus
+
+### Reputation Bonus
+
+\+2
