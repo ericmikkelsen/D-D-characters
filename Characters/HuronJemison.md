@@ -125,7 +125,8 @@ skills:
 * 3 Melee = +3 Base Attack Bonus
 * 8 Ranged = +3 Base  Attack Bonus + 5 dex
 * 1d6 damage DC 13 1d2 rounds stunned
-* Fists 1d8 + 1d4 lethal 5 dex + 4 Base Attack Bonus + 2 Improved Brawl
+* Fists 1d6 + 1d4 lethal   
+  10 = 5 dex + 4 Base Attack Bonus + 1 Improved Brawl
 
 ### 46 Hit points
 
@@ -134,7 +135,7 @@ skills:
 3. 9
 4. 10
 5. 5
-6. 3 + 3
+6. 3 + 3 con
 
 ### 21 Armor class
 
