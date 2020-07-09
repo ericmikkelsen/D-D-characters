@@ -125,7 +125,7 @@ skills:
 * 3 Melee = +3 Base Attack Bonus
 * 8 Ranged = +3 Base  Attack Bonus + 5 dex
 * 1d6 damage DC 13 1d2 rounds stunned
-* Fists 1d6 + 1d4   
+* Fists 1d6 + 1d4  
   10 = 5 dex + 4 Base Attack Bonus + 1 Improved Brawl
 
 ### 46 Hit points
@@ -145,4 +145,12 @@ skills:
 
 ### Reputation Bonus
 
-\+2
+\+2  
+  
+Mherinoc engineer Seaon  
+Millian psychic jason  
+Echo killbot Allen  
+kai Soldier Risto  
+Juleus Bakez "The Hacker" Jason Borecki  
+Nestle Cruncher, barbarian, Great white mystery  
+Chester pet rat, Mel's Rat
