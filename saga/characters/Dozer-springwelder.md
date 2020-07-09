@@ -8,7 +8,7 @@ arms_and_armor: ''
 
 ### Finding Seans Character
 
-What I told Sean's character, 
+What I told Sean's character,
 
 This is what I saw when I cast the runes right before meeting you.
 
@@ -22,11 +22,11 @@ Someone would be freed, and it would be good, but it would also mean that there 
 
 #### ᛜ Ing Torch
 
-A fire in a cold summer night, warms weary travelers, but a fire in Dragon's Teeth saves lives at night. Those that are close will be joined, those that can bear to be joined, will be, and those that cannot join will be hewn from life. 
+A fire in a cold summer night, warms weary travelers, but a fire in Dragon's Teeth saves lives at night. Those that are close will be joined, those that can bear to be joined, will be, and those that cannot join will be hewn from life.
 
 ### What I said about your family when you were old enough to talk
 
-I am dozer your caretaker, I found you and your parents were already dead, I had nothing to do with that. But you aren not an orphan, you are _FirstName_ of _lastname or place_ and I'll insure what is yours, is yours. Until you can defend it yourself. These are the people you came from. This is where your parents are buried. This place belongs to you and you are not an orphan. I am simply your caretaker. 
+I am dozer your caretaker, I found you and your parents were already dead, I had nothing to do with that. But you aren not an orphan, you are _FirstName_ of _lastname or place_ and I'll insure what is yours, is yours. Until you can defend it yourself. These are the people you came from. This is where your parents are buried. This place belongs to you and you are not an orphan. I am simply your caretaker.
 
 ### What I've done on the side
 
