@@ -145,12 +145,15 @@ skills:
 
 ### Reputation Bonus
 
-\+2  
-  
-Mherinoc engineer Seaon  
-Millian psychic jason  
-Echo killbot Allen  
-kai Soldier Risto  
-Juleus Bakez "The Hacker" Jason Borecki  
-Nestle Cruncher, barbarian, Great white mystery  
-Chester pet rat, Mel's Rat
+\+2
+
+## Players
+
+1. Mherinoc engineer Sean
+2. Millian psychic jason
+3. Echo killbot Allen
+4. kai Soldier Risto
+5. Juleus Bakez "The Hacker" Jason Borecki
+6. Mel ???
+7. Nestle Cruncher, barbarian, Great white mystery
+8. Chester pet rat, Mel's Rat
