@@ -154,6 +154,6 @@ skills:
 3. Echo killbot Allen
 4. kai Soldier Risto
 5. Juleus Bakez "The Hacker" Jason Borecki
-6. Mel ???
-7. Nestle Cruncher, barbarian, Great white mystery
+6. Ayla played by Mel
+7. Nestle Cruncher, barbarian played by Francis
 8. Chester pet rat, Mel's Rat
