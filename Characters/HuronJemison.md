@@ -63,7 +63,7 @@ skills:
 * 7 Diplomacy 5ranks +2 Cha
 * Disable Device +1 Int
 * Disguise +2 Cha
-* **12 Drive** 5 ranks + 5 Dex + 2 Vehicle Expert
+* **13 Drive** 5 ranks + 6 Dex + 2 Vehicle Expert
 * Escape Artist + 5 Dex
 * Forgery + 1 Int
 * Gamble + 1Wis
@@ -76,19 +76,19 @@ skills:
 * 1 Listen Wis
 * 5 Move Silently Dex
 * **9 Navigate** +1 Int + 8 ranks
-* **16 Pilot** 9 ranks +5 Dex + 2 Vehicle Expert
+* **17 Pilot** 10 ranks +5 Dex + 2 Vehicle Expert
 * Profession +1 Wis
 * 5 Repair 4 ranks +1 Int
 * Research +1 Int
 * Ride +5 Dex
 * Search +1 Int
 * Sense Motive +1 Wis
-* Sleight of Hand +5 Dex
+* **9 Sleight of Hand** +5 Dex + 3ranks
 * Spot +1 Wis
 * Survival +1 Wis
 * Swim Str
 * Treat Injury +1 Wis
-* **9 Tumble** 4 ranks +5 Dex
+* **10 Tumble** 5 ranks +5 Dex
 
 ### languages
 
