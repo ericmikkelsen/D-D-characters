@@ -1,5 +1,5 @@
 ---
-level: 6
+level: 7
 dex: 20
 str: 10
 con: 16
@@ -8,7 +8,7 @@ cha: 14
 wis: 13
 name: Huron
 alignment: Neutral Good
-class: '3 Fast Hero / 2 '
+class: 4 Fast Hero / 3 Dog fighter
 race: ''
 skills:
   acrobatics: false
@@ -46,6 +46,7 @@ skills:
 * [Weapon Finesse](http://spellbooksoftware.com/d20mrsd/featorder.html#weaponfinesse) 1st level human
 * [Street Fighting](http://spellbooksoftware.com/d20mrsd/featorder.html#streetfighting) 3rd level human
 * [Combat Martial Arts](http://spellbooksoftware.com/d20mrsd/featorder.html#combatmartial) 6th level human
+* [Defensive Martial Arts](http://spellbooksoftware.com/d20mrsd/featorder.html#defensivemartial)
 
 ## Class Features
 
@@ -117,13 +118,14 @@ skills:
 4. 6 ranks
 5. 6 ranks
 6. 6 ranks
+7. 6 ranks
 
 ## Combat
 
 ### Attacks
 
-* 3 Melee = +3 Base Attack Bonus
-* 8 Ranged = +3 Base  Attack Bonus + 5 dex
+* 4 Melee = +4 Base Attack Bonus
+* 8 Ranged = +4 Base  Attack Bonus + 5 dex
 * 1d6 damage DC 13 1d2 rounds stunned
 * Fists 1d6 + 1d4  
   10 = 5 dex + 4 Base Attack Bonus + 1 Improved Brawl
@@ -137,11 +139,12 @@ skills:
 5. 5
 6. 3 + 3 con
 
-### 21 Armor class
+### 23 Armor class
 
 * 10 base
 * 5 Dex
-* 6 defense bonus
+* 7 defense bonus
+* +1 dodge defensive martial arts
 
 ### Reputation Bonus
 
@@ -154,6 +157,5 @@ skills:
 3. Echo killbot Allen
 4. kai Soldier Risto
 5. Juleus Bakez "The Hacker" Jason Borecki
-6. Ayla played by Mel
+6. Ayla played by Mel, Chester pet rat
 7. Nestle Cruncher, barbarian played by Francis
-8. Chester pet rat, Mel's Rat
