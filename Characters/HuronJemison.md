@@ -46,7 +46,7 @@ skills:
 * [Weapon Finesse](http://spellbooksoftware.com/d20mrsd/featorder.html#weaponfinesse) 1st level human
 * [Street Fighting](http://spellbooksoftware.com/d20mrsd/featorder.html#streetfighting) 3rd level human
 * [Combat Martial Arts](http://spellbooksoftware.com/d20mrsd/featorder.html#combatmartial) 6th level human
-* [Defensive Martial Arts](http://spellbooksoftware.com/d20mrsd/featorder.html#defensivemartial)
+* [Defensive Martial Arts](http://spellbooksoftware.com/d20mrsd/featorder.html#defensivemartial) 4th level fast hero
 
 ## Class Features
 
