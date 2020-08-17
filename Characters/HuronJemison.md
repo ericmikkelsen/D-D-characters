@@ -154,7 +154,7 @@ skills:
 
 1. Mherinoc engineer Sean
 2. Millian psychic jason
-3. Echo killbot Allen
+3. Ecco killbot Allen
 4. kai Soldier Risto
 5. Juleus Bakez "The Hacker" Jason Borecki
 6. Ayla played by Mel, Chester pet rat
