@@ -53,9 +53,9 @@ skills:
 
 ## Class Features
 
-* Evasion - fast herod
-* Uncanny Dodge
-* Defensive Roll
+* Evasion - fast hero 1
+* Uncanny Dodge 3
+* Defensive Roll 5
 
 ### Saves
 
