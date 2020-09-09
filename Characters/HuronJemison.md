@@ -53,9 +53,9 @@ skills:
 ## Class Features
 
 Saves  
-\+5 reflex   
-\+2 fort  
-\+2 Will
+\+8 reflex   
+\+3 fort  
+\+3 Will
 
 ## Skills
 
