@@ -139,7 +139,7 @@ Saves
 * Fists 1d6 + 1d4  
   11 = 5 dex + 5 Base Attack Bonus +1 Weapon focus
 
-### 67 Hit points
+### 68 Hit points
 
 1. 10
 2. 6
@@ -148,7 +148,7 @@ Saves
 5. 5
 6. 6 = 3 + 3 con
 7. 9 = 5+3
-8. 5 = 2 + 3
+8. 6 = 3 + 3
 9. 7 = 4 + 3
 
 ### 25 Armor class
