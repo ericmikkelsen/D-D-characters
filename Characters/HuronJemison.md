@@ -1,6 +1,6 @@
 ---
 level: 7
-dex: 20
+dex: 21
 str: 10
 con: 16
 int: 12
@@ -47,8 +47,14 @@ skills:
 * [Street Fighting](http://spellbooksoftware.com/d20mrsd/featorder.html#streetfighting) 3rd level human
 * [Combat Martial Arts](http://spellbooksoftware.com/d20mrsd/featorder.html#combatmartial) 6th level human
 * [Defensive Martial Arts](http://spellbooksoftware.com/d20mrsd/featorder.html#defensivemartial) 4th level fast hero
+* 
 
 ## Class Features
+
+Saves  
+\+5 reflex   
+\+2 fort  
+\+2 Will
 
 ## Skills
 
@@ -124,11 +130,11 @@ skills:
 
 ### Attacks
 
-* 4 Melee = +4 Base Attack Bonus
-* 8 Ranged = +4 Base  Attack Bonus + 5 dex
+* 5 Melee = +5 Base Attack Bonus
+* 10 Ranged = +5 Base  Attack Bonus + 5 dex
 * 1d6 damage DC 13 1d2 rounds stunned
 * Fists 1d6 + 1d4  
-  9 = 5 dex + 4 Base Attack Bonus
+  10 = 5 dex + 4 Base Attack Bonus
 
 ### 46 Hit points
 
@@ -143,7 +149,7 @@ skills:
 
 * 10 base
 * 5 Dex
-* 7 defense bonus
+* 8 defense bonus
 * +1 dodge defensive martial arts
 
 ### Reputation Bonus
