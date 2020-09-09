@@ -75,7 +75,7 @@ skills:
 * 7 Diplomacy 5ranks +2 Cha
 * Disable Device +1 Int
 * Disguise +2 Cha
-* **21 Drive** 12 ranks + 5 Dex + 2 Vehicle Expert + 2 spacer
+* **21 Drive** 12 ranks + 5 Dex + 2 Vehicle Expert
 * Escape Artist + 5 Dex
 * Forgery + 1 Int
 * Gamble + 1Wis
