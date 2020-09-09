@@ -145,7 +145,7 @@ Saves
 5. 5
 6. 3 + 3 con
 
-### 23 Armor class
+### 24 Armor class
 
 * 10 base
 * 5 Dex
@@ -154,7 +154,7 @@ Saves
 
 ### Reputation Bonus
 
-\+2
+\+3
 
 ## Players
 
