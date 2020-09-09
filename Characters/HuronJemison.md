@@ -48,9 +48,13 @@ skills:
 * [Combat Martial Arts](http://spellbooksoftware.com/d20mrsd/featorder.html#combatmartial) 6th level human
 * [Defensive Martial Arts](http://spellbooksoftware.com/d20mrsd/featorder.html#defensivemartial) 4th level fast hero
 * [Dodge](http://spellbooksoftware.com/d20mrsd/featorder.html#dodge) 5th level fast hero
-* Weapon Focus +1 unarmed strike level 9
+* [Spacer](http://spellbooksoftware.com/d20mrsd/futurefeats.html#spacer) level 9 human
 
 ## Class Features
+
+* Evasion - fast herod
+* Uncanny Dodge
+* Defensive Roll
 
 ### Saves
 
@@ -138,7 +142,7 @@ skills:
 * 10 Ranged = +5 Base  Attack Bonus + 5 dex
 * 1d6 damage DC 13 1d2 rounds stunned
 * Fists 1d6 + 1d4  
-  11 = 5 dex + 5 Base Attack Bonus +1 Weapon focus
+  10 = 5 dex + 5 Base Attack Bonus
 
 ### 68 Hit points
 
