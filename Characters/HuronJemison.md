@@ -67,7 +67,7 @@ skills:
 * Balance +5 Dex
 * Bluff +2 Cha
 * Climb Str
-* **10 Computer Use** Int +1 + 9 ranks
+* **10/12 Computer Use** Int +1 + 9 ranks /+ 2 on the Jemison
 * Concentration +3 Con
 * **6 Craft** (mechanical) 5 ranks + 1 int
 * Decipher Script +1 Int
@@ -75,7 +75,7 @@ skills:
 * 7 Diplomacy 5ranks +2 Cha
 * Disable Device +1 Int
 * Disguise +2 Cha
-* **19 Drive** 12 ranks + 5 Dex + 2 Vehicle Expert
+* **21 Drive** 12 ranks + 5 Dex + 2 Vehicle Expert + 2 spacer
 * Escape Artist + 5 Dex
 * Forgery + 1 Int
 * Gamble + 1Wis
