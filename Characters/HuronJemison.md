@@ -62,7 +62,7 @@ Saves
 * Balance +5 Dex
 * Bluff +2 Cha
 * Climb Str
-* **7 Computer Use** Int +1 + 6 ranks
+* **10 Computer Use** Int +1 + 9 ranks
 * Concentration +3 Con
 * **6 Craft** (mechanical) 5 ranks + 1 int
 * Decipher Script +1 Int
@@ -70,7 +70,7 @@ Saves
 * 7 Diplomacy 5ranks +2 Cha
 * Disable Device +1 Int
 * Disguise +2 Cha
-* **13 Drive** 5 ranks + 6 Dex + 2 Vehicle Expert
+* **19 Drive** 12 ranks + 5 Dex + 2 Vehicle Expert
 * Escape Artist + 5 Dex
 * Forgery + 1 Int
 * Gamble + 1Wis
@@ -83,7 +83,7 @@ Saves
 * 1 Listen Wis
 * 5 Move Silently Dex
 * **9 Navigate** +1 Int + 8 ranks
-* **17 Pilot** 10 ranks +5 Dex + 2 Vehicle Expert
+* **19 Pilot** 12 ranks +5 Dex + 2 Vehicle Expert
 * Profession +1 Wis
 * 5 Repair 4 ranks +1 Int
 * Research +1 Int
@@ -126,6 +126,8 @@ Saves
 5. 6 ranks
 6. 6 ranks
 7. 6 ranks
+8. 6 ranks*
+9. 6 ranks*
 
 ## Combat
 
@@ -137,7 +139,7 @@ Saves
 * Fists 1d6 + 1d4  
   11 = 5 dex + 5 Base Attack Bonus +1 Weapon focus
 
-### 46 Hit points
+### 67 Hit points
 
 1. 10
 2. 6
