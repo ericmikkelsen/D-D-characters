@@ -75,7 +75,7 @@ skills:
 * 7 Diplomacy 5ranks +2 Cha
 * Disable Device +1 Int
 * Disguise +2 Cha
-* **21 Drive** 12 ranks + 5 Dex + 2 Vehicle Expert
+* **19 Drive** 12 ranks + 5 Dex + 2 Vehicle Expert
 * Escape Artist + 5 Dex
 * Forgery + 1 Int
 * Gamble + 1Wis
@@ -87,8 +87,8 @@ skills:
 * Jump Str
 * 1 Listen Wis
 * 5 Move Silently Dex
-* **9 Navigate** +1 Int + 8 ranks
-* **19 Pilot** 12 ranks +5 Dex + 2 Vehicle Expert
+* **11 Navigate** +1 Int + 8 ranks + 2
+* **21 Pilot** 12 ranks +5 Dex + 2 Vehicle Expert +2 Spacer
 * Profession +1 Wis
 * 5 Repair 4 ranks +1 Int
 * Research +1 Int
