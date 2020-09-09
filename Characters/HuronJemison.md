@@ -43,12 +43,13 @@ skills:
 * [Zero G Training](http://spellbooksoftware.com/d20mrsd/futurefeats.html#zerog)
 * [Vehicle Expert](http://spellbooksoftware.com/d20mrsd/featorder.html#vehicleexpert) (ultralight)
 * [Brawl](http://spellbooksoftware.com/d20mrsd/featorder.html#brawl) 1st level human
-* [Weapon Finesse](http://spellbooksoftware.com/d20mrsd/featorder.html#weaponfinesse) 1st level human
+* [Weapon Finesse](http://spellbooksoftware.com/d20mrsd/featorder.html#weaponfinesse) 8th level fast hero
 * [Street Fighting](http://spellbooksoftware.com/d20mrsd/featorder.html#streetfighting) 3rd level human
 * [Combat Martial Arts](http://spellbooksoftware.com/d20mrsd/featorder.html#combatmartial) 6th level human
 * [Defensive Martial Arts](http://spellbooksoftware.com/d20mrsd/featorder.html#defensivemartial) 4th level fast hero
 * [Dodge](http://spellbooksoftware.com/d20mrsd/featorder.html#dodge) 5th level fast hero
 * [Spacer](http://spellbooksoftware.com/d20mrsd/futurefeats.html#spacer) level 9 human
+* [Dedicated Plus](http://spellbooksoftware.com/d20mrsd/futurefeats.html#dplus) 1st level human
 
 ## Class Features
 
@@ -162,7 +163,6 @@ skills:
 * 5 Dex
 * 8 defense bonus
 * +1 dodge defensive martial arts
-* +1 dodge bonus from Dodge
 
 ### Reputation Bonus
 
