@@ -89,7 +89,7 @@ skills:
 * 1 Listen Wis
 * 5 Move Silently Dex
 * **11 Navigate** +1 Int + 8 ranks + 2
-* **21 Pilot** 12 ranks +5 Dex + 2 Vehicle Expert +2 Spacer
+* **24 Pilot** 12 ranks +5 Dex + 2 Vehicle Expert +2 Spacer + 3 dedicated Plus
 * Profession +1 Wis
 * 5 Repair 4 ranks +1 Int
 * Research +1 Int
