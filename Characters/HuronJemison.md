@@ -8,7 +8,7 @@ cha: 14
 wis: 13
 name: Huron
 alignment: Neutral Good
-class: 4 Fast Hero / 3 Dog fighter
+class: 4 Fast Hero / 3 Dog fighter +2 fast hero
 race: ''
 skills:
   acrobatics: false
@@ -153,7 +153,7 @@ skills:
 ## Players
 
 1. Mherinoc engineer Sean
-2. Millian psychic jason
+2. Millian psychic lane
 3. Ecco killbot Allen
 4. kai Soldier Risto
 5. Juleus Bakez "The Hacker" Jason Borecki
