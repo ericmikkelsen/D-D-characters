@@ -47,7 +47,8 @@ skills:
 * [Street Fighting](http://spellbooksoftware.com/d20mrsd/featorder.html#streetfighting) 3rd level human
 * [Combat Martial Arts](http://spellbooksoftware.com/d20mrsd/featorder.html#combatmartial) 6th level human
 * [Defensive Martial Arts](http://spellbooksoftware.com/d20mrsd/featorder.html#defensivemartial) 4th level fast hero
-* 
+* [Dodge](http://spellbooksoftware.com/d20mrsd/featorder.html#dodge) 5th level fast hero
+* Weapon Focus +1 unarmed strike level 9
 
 ## Class Features
 
@@ -134,7 +135,7 @@ Saves
 * 10 Ranged = +5 Base  Attack Bonus + 5 dex
 * 1d6 damage DC 13 1d2 rounds stunned
 * Fists 1d6 + 1d4  
-  10 = 5 dex + 4 Base Attack Bonus
+  11 = 5 dex + 5 Base Attack Bonus +1 Weapon focus
 
 ### 46 Hit points
 
@@ -143,14 +144,18 @@ Saves
 3. 9
 4. 10
 5. 5
-6. 3 + 3 con
+6. 6 = 3 + 3 con
+7. 9 = 5+3
+8. 5 = 2 + 3
+9. 7 = 4 + 3
 
-### 24 Armor class
+### 25 Armor class
 
 * 10 base
 * 5 Dex
 * 8 defense bonus
 * +1 dodge defensive martial arts
+* +1 dodge bonus from Dodge
 
 ### Reputation Bonus
 
