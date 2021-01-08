@@ -177,3 +177,4 @@ skills:
 5. Juleus Bakez "The Hacker" Jason Borecki
 6. Ayla played by Mel, Chester pet rat
 7. Nestle Cruncher, barbarian played by Francis
+8. Julius - Jason Borecki
