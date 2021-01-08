@@ -1,5 +1,5 @@
 ---
-level: 7
+level: 9
 dex: 21
 str: 10
 con: 16
