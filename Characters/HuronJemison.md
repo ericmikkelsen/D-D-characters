@@ -73,13 +73,13 @@ skills:
 * **10/12 Computer Use** Int +1 + 9 ranks /+ 2 on the Jemison
 * Concentration +3 Con
 * **6 Craft** (mechanical) 9 ranks + 1 int
-* **5 Craft** (electric) 4 ranks + 1 int
+* **4 Craft** (electric) 3ranks + 1 int
 * Decipher Script +1 Int
 * Demolitions +1 Int
 * 7 Diplomacy 5ranks +2 Cha
 * Disable Device +1 Int
 * Disguise +2 Cha
-* **19 Drive** 12 ranks + 5 Dex + 2 Vehicle Expert
+* **20 Drive** 13 ranks + 5 Dex + 2 Vehicle Expert
 * Escape Artist + 5 Dex
 * Forgery + 1 Int
 * Gamble + 1Wis
