@@ -8,7 +8,7 @@ cha: 14
 wis: 13
 name: Huron
 alignment: Neutral Good
-class: 4 Fast Hero / 3 Dog fighter +2 fast hero
+class: 6 Fast Hero / 3 Dog fighter
 race: ''
 skills:
   acrobatics: false
@@ -56,12 +56,14 @@ skills:
 * Evasion - fast hero 1
 * Uncanny Dodge 3
 * Defensive Roll 5
+* Shake Rattle & Roll dog fighter 4
 
 ### Saves
 
-* +8 reflex
+* +9 reflex
 * +3 fort
 * +3 Will
+* +8/+3 Base Attack
 
 ## Skills
 
@@ -70,7 +72,8 @@ skills:
 * Climb Str
 * **10/12 Computer Use** Int +1 + 9 ranks /+ 2 on the Jemison
 * Concentration +3 Con
-* **6 Craft** (mechanical) 5 ranks + 1 int
+* **6 Craft** (mechanical) 9 ranks + 1 int
+* **5 Craft** (electric) 4 ranks + 1 int
 * Decipher Script +1 Int
 * Demolitions +1 Int
 * 7 Diplomacy 5ranks +2 Cha
@@ -88,8 +91,8 @@ skills:
 * Jump Str
 * 1 Listen Wis
 * 5 Move Silently Dex
-* **11 Navigate** +1 Int + 8 ranks + 2
-* **24 Pilot** 12 ranks +5 Dex + 2 Vehicle Expert +2 Spacer + 3 dedicated Plus
+* **12 Navigate** +1 Int + 9 ranks + 2
+* **25 Pilot** 13 ranks +5 Dex + 2 Vehicle Expert +2 Spacer + 3 dedicated Plus
 * Profession +1 Wis
 * 5 Repair 4 ranks +1 Int
 * Research +1 Int
@@ -125,37 +128,39 @@ skills:
 
 ## Levels
 
-1. 24 ranks
-2. 6 ranks
-3. 6 ranks
-4. 6 ranks
-5. 6 ranks
-6. 6 ranks
-7. 6 ranks
-8. 6 ranks*
-9. 6 ranks*
+ 1. 24 ranks
+ 2. 6 ranks
+ 3. 6 ranks
+ 4. 6 ranks
+ 5. 6 ranks
+ 6. 6 ranks
+ 7. 6 ranks
+ 8. 6 ranks*
+ 9. 6 ranks*
+10. 6 ranks
 
 ## Combat
 
 ### Attacks
 
-* 5 Melee = +5 Base Attack Bonus
-* 10 Ranged = +5 Base  Attack Bonus + 5 dex
+* 8 Melee = +8 Base Attack Bonus
+* 13 Ranged = +8 Base  Attack Bonus + 5 dex
 * 1d6 damage DC 13 1d2 rounds stunned
 * Fists 1d6 + 1d4  
-  10 = 5 dex + 5 Base Attack Bonus
+  13 = 5 dex + 8 Base Attack Bonus
 
-### 68 Hit points
+### 76 Hit points
 
-1. 10
-2. 6
-3. 9
-4. 10
-5. 5
-6. 6 = 3 + 3 con
-7. 9 = 5+3
-8. 6 = 3 + 3
-9. 7 = 4 + 3
+ 1. 10
+ 2. 6
+ 3. 9
+ 4. 10
+ 5. 5
+ 6. 6 = 3 + 3 con
+ 7. 9 = 5+3
+ 8. 6 = 3 + 3
+ 9. 7 = 4 + 3
+10. 8 = 5 + 3
 
 ### 25 Armor class
 
@@ -170,11 +175,10 @@ skills:
 
 ## Players
 
-1. Mherinoc engineer Sean
-2. Millian psychic lane
-3. Ecco killbot Allens
-4. kai Soldier Risto
-5. Juleus Bakez "The Hacker" Jason Borecki
-6. Ayla played by Mel, Chester pet rat
-7. Nestle Cruncher, barbarian played by Francis
-8. Julius - Jason Borecki
+1. **Sean** Mherinoc engineer
+2. **Lane** Millian psychic
+3. **Allen** Ecco killbot
+4. **Risto** kai Soldier
+5. **Jason Borecki** Juleus Bakez "The Hacker
+6. **Ayla** played by Mel, Chester pet rat
+7. **Francis** Nestle Cruncher, barbarian
