@@ -70,7 +70,7 @@ skills:
 * Balance +5 Dex
 * Bluff +2 Cha
 * Climb Str
-* **10/12 Computer Use** Int +1 + 9 ranks /+ 2 on the Jemison
+* **12/14 Computer Use** Int +1 + 9 ranks /+ 2 on the Jemison + 2 for spacer
 * Concentration +3 Con
 * **6 Craft** (mechanical) 9 ranks + 1 int
 * **4 Craft** (electric) 3ranks + 1 int
