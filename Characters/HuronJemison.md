@@ -8,7 +8,7 @@ cha: 14
 wis: 13
 name: Huron
 alignment: Neutral Good
-class: 6 Fast Hero / 3 Dog fighter
+class: 6 Fast Hero / 4 Dog fighter
 race: ''
 skills:
   acrobatics: false
