@@ -124,7 +124,7 @@ skills:
 * high falut'n society
 * technobabble
 * belt
-* Pigin
+* Pidgin
 
 ## Levels
 
@@ -161,6 +161,8 @@ skills:
  8. 6 = 3 + 3
  9. 7 = 4 + 3
 10. 8 = 5 + 3
+
+14 = 14 + 9 + 18
 
 ### 25 Armor class
 
