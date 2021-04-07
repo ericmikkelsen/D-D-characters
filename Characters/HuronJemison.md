@@ -164,7 +164,7 @@ skills:
 
 14 = 14 + 9 + 18
 
-### 25 Armor class
+### 24 Armor class
 
 * 10 base
 * 5 Dex
