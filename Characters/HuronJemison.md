@@ -162,7 +162,7 @@ skills:
  9. 7 = 4 + 3
 10. 8 = 5 + 3
 
-14 = 14 + 9 + 18
+damage = 12 
 
 ### 24 Armor class
 
@@ -184,3 +184,5 @@ skills:
 5. **Jason Borecki** Juleus Bakez "The Hacker
 6. **Ayla** played by Mel, Chester pet rat
 7. **Francis** Nestle Cruncher, barbarian
+
+1 action die
