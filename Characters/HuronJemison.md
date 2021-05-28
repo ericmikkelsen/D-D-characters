@@ -162,7 +162,9 @@ skills:
  9. 7 = 4 + 3
 10. 8 = 5 + 3
 
-damage = 12 
+40
+
+damage = 12
 
 ### 24 Armor class
 
