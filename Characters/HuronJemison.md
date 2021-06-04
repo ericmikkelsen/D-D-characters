@@ -149,8 +149,7 @@ skills:
 * Fists 1d6 + 1d4  
   13 = 5 dex + 8 Base Attack Bonus
 
-### 76 Hit points  
-37 
+### 76 Hit points
 
  1. 10
  2. 6
@@ -163,9 +162,7 @@ skills:
  9. 7 = 4 + 3
 10. 8 = 5 + 3
 
-40
-
-damage = 12
+damage 52 + 23 non-leathal damage
 
 ### 24 Armor class
 
