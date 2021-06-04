@@ -149,7 +149,8 @@ skills:
 * Fists 1d6 + 1d4  
   13 = 5 dex + 8 Base Attack Bonus
 
-### 76 Hit points
+### 76 Hit points  
+37 
 
  1. 10
  2. 6
