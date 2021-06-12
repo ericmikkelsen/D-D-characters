@@ -146,8 +146,8 @@ skills:
 * 8 Melee = +8 Base Attack Bonus
 * 13 Ranged = +8 Base  Attack Bonus + 5 dex
 * 1d6 damage DC 13 1d2 rounds stunned
-* Fists 1d6 + 1d4  
-  13 = 5 dex + 8 Base Attack Bonus
+* Fists 1d6 + 1d4 + 1d6 hot or col
+* hot or cold + 1d6 elemental damage 
 
 ### 76 Hit points
 
