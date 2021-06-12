@@ -31,12 +31,21 @@ skills:
   survival: false
 
 ---
-NPCs
+## NPCs
 
-Elves from fire cave
+### Elven party
 
 * Fig Tree
-* Monica Bellucci
+* Monica Bellucci Raynor
+* Kally
+
+### Cave on island across from Bortuba
+
+* Orphano Man in cave
 * 
 
-Cave on island across from Bortuba
+## Today's notes
+
+Inside cave is faint glow like bioluminescence, 
+
+  
