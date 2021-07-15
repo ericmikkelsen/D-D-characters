@@ -147,7 +147,7 @@ skills:
 * 13 Ranged = +8 Base  Attack Bonus + 5 dex
 * 1d6 damage DC 13 1d2 rounds stunned
 * Fists 1d6 + 1d4 + 1d6 hot or col
-* hot or cold + 1d6 elemental damage 
+* hot or cold + 1d6 elemental damage
 
 ### 76 Hit points
 
@@ -162,7 +162,7 @@ skills:
  9. 7 = 4 + 3
 10. 8 = 5 + 3
 
-damage 52 + 23 non-leathal damage
+3hp left
 
 ### 24 Armor class
 
