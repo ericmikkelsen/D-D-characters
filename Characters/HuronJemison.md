@@ -149,7 +149,7 @@ skills:
 * Fists 1d6 + 1d4 + 1d6 hot or col
 * hot or cold + 1d6 elemental damage
 
-### 76 Hit points
+### 83 Hit points
 
  1. 10
  2. 6
@@ -161,6 +161,7 @@ skills:
  8. 6 = 3 + 3
  9. 7 = 4 + 3
 10. 8 = 5 + 3
+11. 7 = 4 + 3
 
 20hp
 
@@ -173,7 +174,7 @@ skills:
 
 ### Reputation Bonus
 
-\+3
+\+3i
 
 ## Players
 
@@ -182,7 +183,7 @@ skills:
 3. **Allen** Ecco killbot
 4. **Risto** kai Soldier
 5. **Jason Borecki** Juleus Bakez "The Hacker
-6. **Ayla** played by Mel, Chester pet rat
+6. **Mel** Ayla, the psychic
 7. **Francis** Nestle Cruncher, barbarian
 
 1 action die
