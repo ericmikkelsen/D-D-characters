@@ -162,7 +162,7 @@ skills:
  9. 7 = 4 + 3
 10. 8 = 5 + 3
 
-3hp left
+20hp
 
 ### 24 Armor class
 
