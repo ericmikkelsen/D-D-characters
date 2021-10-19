@@ -145,13 +145,13 @@ skills:
 
 ### Attacks
 
-* 8 Melee = +8 Base Attack Bonus
-* 13 Ranged = +8 Base  Attack Bonus + 5 dex
+* 8 Melee = +8 Base Attack Bonus +6 dex
+* 14 Ranged = +8 Base  Attack Bonus + 6 dex
 * 1d6 damage DC 13 1d2 rounds stunned
 * Fists 1d6 + 1d4 + 1d6 hot or col
 * hot or cold + 1d6 elemental damage
 
-### 83 Hit points
+### 90 Hit points
 
  1. 10
  2. 6
@@ -164,9 +164,7 @@ skills:
  9. 7 = 4 + 3
 10. 8 = 5 + 3
 11. 7 = 4 + 3
-
-9 points of plasma damage  
-2
+12. 7 = 4 + 3
 
 ### 25 Armor class
 
