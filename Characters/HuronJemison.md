@@ -50,6 +50,7 @@ skills:
 * [Dodge](http://spellbooksoftware.com/d20mrsd/featorder.html#dodge) 5th level fast hero
 * [Spacer](http://spellbooksoftware.com/d20mrsd/futurefeats.html#spacer) level 9 human
 * [Dedicated Plus](http://spellbooksoftware.com/d20mrsd/futurefeats.html#dplus) 1st level human
+* [Fast Plus](http://spellbooksoftware.com/d20mrsd/futurefeats.html#fplus) 6th level Dogfighter
 
 ## Class Features
 
@@ -57,6 +58,7 @@ skills:
 * Uncanny Dodge 3
 * Defensive Roll 5
 * Shake Rattle & Roll dog fighter 4
+* To the max! dog fighter 5
 
 ### Saves
 
