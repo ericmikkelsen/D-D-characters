@@ -1,6 +1,6 @@
 ---
-level: 9
-dex: 21
+level: 12
+dex: 22
 str: 10
 con: 16
 int: 12
@@ -8,7 +8,7 @@ cha: 14
 wis: 13
 name: Huron
 alignment: Neutral Good
-class: 6 Fast Hero / 5 Dog fighter
+class: 6 Fast Hero / 5 + 1 Dog fighter
 race: ''
 skills:
   acrobatics: false
@@ -60,15 +60,15 @@ skills:
 
 ### Saves
 
-* +9 reflex
-* +3 fort
-* +3 Will
-* +8/+3 Base Attack
+* +10 reflex
+* +4 fort
+* +4 Will
+* +9/+4 Base Attack
 
 ## Skills
 
-* Balance +5 Dex
-* Bluff +2 Cha
+* 6 Balance +6 Dex
+* 2 Bluff +2 Cha
 * Climb Str
 * **12/14 Computer Use** Int +1 + 9 ranks /+ 2 on the Jemison + 2 for spacer
 * Concentration +3 Con
@@ -79,32 +79,32 @@ skills:
 * 7 Diplomacy 5ranks +2 Cha
 * Disable Device +1 Int
 * Disguise +2 Cha
-* **21 Drive** 14ranks + 5 Dex + 2 Vehicle Expert
-* Escape Artist + 5 Dex
+* **23 Drive** 15ranks + 6 Dex + 2 Vehicle Expert
+* Escape Artist + 6 Dex
 * Forgery + 1 Int
 * Gamble + 1Wis
 * Gather Information +2 Cha
 * Handle Animal + 2 Cha
-* Hide + 5 Dex
+* Hide + 6 Dex
 * Intimidate +2 Cha
 * Investigate +5 Int
 * Jump Str
 * 1 Listen Wis
-* 5 Move Silently Dex
+* 6 Move Silently +6 Dex
 * **12 Navigate** +1 Int + 9 ranks + 2
-* **26 Pilot** 14 ranks +5 Dex + 2 Vehicle Expert +2 Spacer + 3 dedicated Plus
+* **28 Pilot** 15 ranks +6 Dex + 2 Vehicle Expert +2 Spacer + 3 dedicated Plus
 * Profession +1 Wis
 * 5 Repair 4 ranks +1 Int
 * Research +1 Int
-* Ride +5 Dex
+* 6 Ride +6 Dex
 * Search +1 Int
 * Sense Motive +1 Wis
-* **9 Sleight of Hand** +5 Dex + 3ranks
+* **9 Sleight of Hand** +6 Dex + 3ranks
 * Spot +1 Wis
 * Survival +1 Wis
 * Swim Str
 * Treat Injury +1 Wis
-* **10 Tumble** 5 ranks +5 Dex
+* **11 Tumble** 5 ranks +6 Dex
 
 ### languages
 
@@ -139,6 +139,7 @@ skills:
  9. 6 ranks*
 10. 6 ranks
 11. 6 ranks
+12. 6 ranks
 
 ## Combat
 
@@ -165,12 +166,12 @@ skills:
 11. 7 = 4 + 3
 
 9 points of plasma damage  
-2 
+2
 
-### 24 Armor class
+### 25 Armor class
 
 * 10 base
-* 5 Dex
+* 6 Dex
 * 8 defense bonus
 * +1 dodge defensive martial arts
 
