@@ -164,7 +164,8 @@ skills:
 10. 8 = 5 + 3
 11. 7 = 4 + 3
 
-20hp
+9 points of plasma damage  
+2 
 
 ### 24 Armor class
 
@@ -175,7 +176,7 @@ skills:
 
 ### Reputation Bonus
 
-\+3
+\+4
 
 ## Players
 
