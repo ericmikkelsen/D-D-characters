@@ -54,8 +54,8 @@ skills:
 
 ## Class Features
 
-* Evasion - fast hero 1
-* Uncanny Dodge 3
+* [Evasion](http://spellbooksoftware.com/d20mrsd/fasthero.html#:\~:text=attains%20new%20levels.-,Evasion,-%3A%20If%20the%20Fast) - fast hero 1
+* [Uncanny Dodge](Uncanny Dodge 1) 3
 * Defensive Roll 5
 * Shake Rattle & Roll dog fighter 4
 * To the max! dog fighter 5
