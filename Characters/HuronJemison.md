@@ -59,6 +59,8 @@ skills:
 * Defensive Roll 5
 * Shake Rattle & Roll dog fighter 4
 * To the max! dog fighter 5
+* Fast Plus - Uncanny Dodge 2
+* Fast Plus - Opportunist
 
 ### Saves
 
