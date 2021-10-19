@@ -69,23 +69,23 @@ skills:
 
 * 6 Balance +6 Dex
 * 2 Bluff +2 Cha
-* Climb Str
+* 0 Climb Str
 * **12/14 Computer Use** Int +1 + 9 ranks /+ 2 on the Jemison + 2 for spacer
-* Concentration +3 Con
+* 3 Concentration +3 Con
 * **10 Craft** (mechanical) 9 ranks + 1 int
 * **8 Craft** (electric) 7ranks + 1 int
-* Decipher Script +1 Int
-* Demolitions +1 Int
+* 1 Decipher Script +1 Int
+* 1 Demolitions +1 Int
 * 7 Diplomacy 5ranks +2 Cha
-* Disable Device +1 Int
-* Disguise +2 Cha
+* 1 Disable Device +1 Int
+* 2 Disguise +2 Cha
 * **23 Drive** 15ranks + 6 Dex + 2 Vehicle Expert
-* Escape Artist + 6 Dex
-* Forgery + 1 Int
-* Gamble + 1Wis
-* Gather Information +2 Cha
-* Handle Animal + 2 Cha
-* Hide + 6 Dex
+* 6 Escape Artist + 6 Dex
+* 1 Forgery + 1 Int
+* 1 Gamble + 1Wis
+* 2 Gather Information +2 Cha
+* 2 Handle Animal + 2 Cha
+* 6 Hide + 6 Dex
 * Intimidate +2 Cha
 * Investigate +5 Int
 * Jump Str
@@ -94,7 +94,7 @@ skills:
 * **12 Navigate** +1 Int + 9 ranks + 2
 * **28 Pilot** 15 ranks +6 Dex + 2 Vehicle Expert +2 Spacer + 3 dedicated Plus
 * Profession +1 Wis
-* 5 Repair 4 ranks +1 Int
+* 9 Repair 8 ranks +1 Int
 * Research +1 Int
 * 6 Ride +6 Dex
 * Search +1 Int
