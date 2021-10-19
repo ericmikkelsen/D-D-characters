@@ -56,9 +56,9 @@ skills:
 
 * [Evasion](http://spellbooksoftware.com/d20mrsd/fasthero.html#:\~:text=attains%20new%20levels.-,Evasion,-%3A%20If%20the%20Fast) - fast hero 1
 * [Uncanny Dodge](Uncanny Dodge 1) 3
-* Defensive Roll 5
-* Shake Rattle & Roll dog fighter 4
-* To the max! dog fighter 5
+* [Defensive Roll](Defensive Roll) 5
+* [Shake Rattle & Roll dog fighter](http://spellbooksoftware.com/d20mrsd/futuredogfight.html#:\~:text=%2B3-,Class%20Features,-The%20following%20class) 4
+* [To the max!](http://spellbooksoftware.com/d20mrsd/futuredogfight.html#:\~:text=%2B3-,Class%20Features,-The%20following%20class) dog fighter 5
 * Fast Plus - Uncanny Dodge 2
 * Fast Plus - Opportunist
 
