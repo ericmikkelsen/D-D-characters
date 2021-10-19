@@ -135,8 +135,8 @@ skills:
  5. 6 ranks
  6. 6 ranks
  7. 6 ranks
- 8. 6 ranks*
- 9. 6 ranks*
+ 8. 6 ranks
+ 9. 6 ranks
 10. 6 ranks
 11. 6 ranks
 12. 6 ranks
