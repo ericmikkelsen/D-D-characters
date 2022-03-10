@@ -50,7 +50,7 @@ skills:
 * [Dodge](http://spellbooksoftware.com/d20mrsd/featorder.html#dodge) 5th level fast hero
 * [Spacer](http://spellbooksoftware.com/d20mrsd/futurefeats.html#spacer) level 9 human
 * [Dedicated Plus](http://spellbooksoftware.com/d20mrsd/futurefeats.html#dplus) 1st level human
-* [Fast Plus](http://spellbooksoftware.com/d20mrsd/futurefeats.html#fplus) 6th level Dogfighter
+* Sister Mary Clarence & Deloris Van Cartier, use dex for damage
 
 ## Class Features
 
@@ -59,8 +59,6 @@ skills:
 * [Defensive Roll](Defensive Roll) 5
 * [Shake Rattle & Roll dog fighter](http://spellbooksoftware.com/d20mrsd/futuredogfight.html#:\~:text=%2B3-,Class%20Features,-The%20following%20class) 4
 * [To the max!](http://spellbooksoftware.com/d20mrsd/futuredogfight.html#:\~:text=%2B3-,Class%20Features,-The%20following%20class) dog fighter 5
-* Fast Plus - Uncanny Dodge 2
-* Fast Plus - Opportunist
 
 ### Saves
 
@@ -170,12 +168,17 @@ skills:
 11. 7 = 4 + 3
 12. 7 = 4 + 3
 
-### 25 Armor class
+20 killbot + 19 killbot
+
+### 27 Armor class
 
 * 10 base
 * 6 Dex
-* 8 defense bonus
+* 9 defense bonus
 * +1 dodge defensive martial arts
+* +1 defensive martial arts
+
+\+3 from kai
 
 ### Reputation Bonus
 
